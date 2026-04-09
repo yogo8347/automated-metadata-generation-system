@@ -9,8 +9,6 @@
 [![Gemini](https://img.shields.io/badge/Gemini_2.0_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
 [![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)](https://gradio.app)
-[![License: MIT](https://img.shields.io/badge/License-MIT-10b981?style=for-the-badge)](LICENSE)
-
 <br/>
 
 > **MARS** is an end-to-end automated metadata generation system that extracts semantically rich, structured metadata from unstructured documents (PDF, DOCX, TXT) using a multi-stage LLM pipeline with RAG, OCR fallback, and a Gradio web interface.
@@ -337,11 +335,6 @@ Contributions are welcome! To contribute:
 
 Please follow PEP 8 style guidelines and add comments to any new pipeline stages.
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
